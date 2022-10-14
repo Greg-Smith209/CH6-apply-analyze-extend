@@ -1,7 +1,7 @@
 /*
-Student:
-Date:
-File Name: 
+Student: Gregory Smith
+Date:10/13/2022
+File Name: styles06.css
 */
 
 /* CSS Reset */
@@ -51,19 +51,19 @@ footer {
 
 /* Media Query for Tablet Viewports */
 @media screen and (min-width: 481px) {
-    
+
     .columns {
         width: 50%;
         float: left;
     }
-    
+
 }
 
 /* Media Query for Desktop Viewports */
 @media screen and (min-width: 1200px) {
-    
+
     .columns {
         width: 25%;
     }
-    
+
 }
